@@ -1,5 +1,7 @@
 # dockerlint.nvim
 
+![demo](./assets/demo.png)
+
 Apply a series of lints to Dockerfiles using Treesitter.
 
 There is an accompanying blog post that goes through the steps to build a Neovim
